@@ -1,0 +1,6 @@
+{
+    "Valorant":{"gamePic":"https://firebasestorage.googleapis.com/v0/b/teamfind-b6d4a.appspot.com/o/gamePic%2Fvalorant.png?alt=media&token=708141b9-7e0e-4f92-82da-c2205816e7ce"},
+    "CS:GO":{"gamePic":"https://firebasestorage.googleapis.com/v0/b/teamfind-b6d4a.appspot.com/o/gamePic%2Fcsgo.jpeg?alt=media&token=7c3a7faf-6487-4508-bff7-ed6182c51a6c"},
+    "League Of Legends":{"gamePic":"https://firebasestorage.googleapis.com/v0/b/teamfind-b6d4a.appspot.com/o/gamePic%2Flol.png?alt=media&token=9596eb71-9297-448f-b24b-fcd134d2f029"},
+    "Clash Of Clans":{"gamePic":"https://firebasestorage.googleapis.com/v0/b/teamfind-b6d4a.appspot.com/o/gamePic%2Fclashofclans.jpg?alt=media&token=fc523f5a-8df1-4314-b13f-051b473d8dc7"}
+}
